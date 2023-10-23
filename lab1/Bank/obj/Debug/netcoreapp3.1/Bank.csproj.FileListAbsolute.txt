@@ -1,0 +1,13 @@
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\vitya\source\repos\Laba3\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\vitya\source\repos\Laba3\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
